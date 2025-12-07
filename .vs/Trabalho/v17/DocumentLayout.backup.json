@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pamel\\OneDrive\\Documentos\\TRABALHO HOTEL\\Trabalho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E79B91B7-F065-4F35-B190-2745B459FC4E}|Trabalho.csproj|c:\\users\\pamel\\onedrive\\documentos\\trabalho hotel\\trabalho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79B91B7-F065-4F35-B190-2745B459FC4E}|Trabalho.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79B91B7-F065-4F35-B190-2745B459FC4E}|Trabalho.csproj|c:\\users\\pamel\\onedrive\\documentos\\trabalho hotel\\trabalho\\utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79B91B7-F065-4F35-B190-2745B459FC4E}|Trabalho.csproj|solutionrelative:utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79B91B7-F065-4F35-B190-2745B459FC4E}|Trabalho.csproj|c:\\users\\pamel\\onedrive\\documentos\\trabalho hotel\\trabalho\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79B91B7-F065-4F35-B190-2745B459FC4E}|Trabalho.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79B91B7-F065-4F35-B190-2745B459FC4E}|Trabalho.csproj|c:\\users\\pamel\\onedrive\\documentos\\trabalho hotel\\trabalho\\dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79B91B7-F065-4F35-B190-2745B459FC4E}|Trabalho.csproj|solutionrelative:dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79B91B7-F065-4F35-B190-2745B459FC4E}|Trabalho.csproj|c:\\users\\pamel\\onedrive\\documentos\\trabalho hotel\\trabalho\\interface\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79B91B7-F065-4F35-B190-2745B459FC4E}|Trabalho.csproj|solutionrelative:interface\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDao.cs",
+              "DocumentMoniker": "C:\\Users\\pamel\\OneDrive\\Documentos\\TRABALHO HOTEL\\Trabalho\\Interface\\IDao.cs",
+              "RelativeDocumentMoniker": "Interface\\IDao.cs",
+              "ToolTip": "C:\\Users\\pamel\\OneDrive\\Documentos\\TRABALHO HOTEL\\Trabalho\\Interface\\IDao.cs",
+              "RelativeToolTip": "Interface\\IDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:07:25.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteDAO.cs",
+              "DocumentMoniker": "C:\\Users\\pamel\\OneDrive\\Documentos\\TRABALHO HOTEL\\Trabalho\\DAO\\ClienteDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ClienteDAO.cs",
+              "ToolTip": "C:\\Users\\pamel\\OneDrive\\Documentos\\TRABALHO HOTEL\\Trabalho\\DAO\\ClienteDAO.cs",
+              "RelativeToolTip": "DAO\\ClienteDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T11:05:11.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\pamel\\OneDrive\\Documentos\\TRABALHO HOTEL\\Trabalho\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\pamel\\OneDrive\\Documentos\\TRABALHO HOTEL\\Trabalho\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T10:59:11.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\pamel\\OneDrive\\Documentos\\TRABALHO HOTEL\\Trabalho\\Utilitarios\\Conexao.cs",
+              "RelativeDocumentMoniker": "Utilitarios\\Conexao.cs",
+              "ToolTip": "C:\\Users\\pamel\\OneDrive\\Documentos\\TRABALHO HOTEL\\Trabalho\\Utilitarios\\Conexao.cs",
+              "RelativeToolTip": "Utilitarios\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T10:56:20.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pamel\\OneDrive\\Documentos\\TRABALHO HOTEL\\Trabalho\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pamel\\OneDrive\\Documentos\\TRABALHO HOTEL\\Trabalho\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T10:52:19.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
